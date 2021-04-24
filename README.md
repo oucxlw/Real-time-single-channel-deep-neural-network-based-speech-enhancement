@@ -5,7 +5,7 @@
 This GitHub repository provides for Deep Neural Network based Single Microphone Speech Enhancement on edge devices (iPhone). The example app provided here is for hearing improvement studies. 
 > **Abstract:** In this paper, we present a deep neural network architecture comprising of both convolutional neural network (CNN) and recurrent neural network (RNN) layers for real-time singlechannel speech enhancement (SE). The proposed neural network model focuses on enhancing the noisy speech magnitude spectrum on a frame-by-frame process. The developed model is implemented on the smartphone (edge device), to demonstrate the real-time usability of the proposed method. Perceptual evaluation of speech quality (PESQ) and short-time objective intelligibility (STOI) test results are used to compare the proposed algorithm to previously published conventional and deep learning-based SE methods. Subjective ratings show the performance improvement of the proposed model over the other baseline SE methods.
 
-You can find the manuscript for this GitHub repository :https://isca-speech.org/archive/Interspeech_2020/pdfs/1901.pdf
+You can find the manuscript for this GitHub repository : https://isca-speech.org/archive/Interspeech_2020/pdfs/1901.pdf
 
 ## Users Guides
 
@@ -23,7 +23,7 @@ The codes are licensed under open-source MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
-Nikhil Shankar, Gautam S Bhat, and Issa MS Panahi, "Real-time single-channel deep neural network-based speech enhancement on edge devices." Proc. Interspeech 2020 (2020): 3281-3285.
+- Nikhil Shankar, Gautam S Bhat, and Issa MS Panahi, "Real-time single-channel deep neural network-based speech enhancement on edge devices." Proc. Interspeech 2020 (2020): 3281-3285.
 
 ## Disclaimer
 
